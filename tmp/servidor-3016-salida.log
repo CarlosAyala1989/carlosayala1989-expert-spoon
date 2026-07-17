@@ -1,0 +1,25 @@
+
+> proyect-education-build@0.1.0 dev
+> next dev --hostname 0.0.0.0 --port 3016
+
+▲ Next.js 16.2.10 (Turbopack)
+- Local:         http://localhost:3016
+- Network:       http://0.0.0.0:3016
+- Environments: .env.local
+✓ Ready in 807ms
+
+ GET / 200 in 548ms (next.js: 221ms, application-code: 327ms)
+ GET / 200 in 103ms (next.js: 6ms, application-code: 98ms)
+ GET /panel/aulas/7/areas/10 307 in 1506ms (next.js: 1318ms, application-code: 188ms)
+ GET / 200 in 397ms (next.js: 10ms, application-code: 387ms)
+ GET / 200 in 158ms (next.js: 15ms, application-code: 144ms)
+ GET /ingresar 200 in 257ms (next.js: 93ms, application-code: 164ms)
+ GET /panel 200 in 170ms (next.js: 7ms, application-code: 163ms)
+ GET /panel 200 in 316ms (next.js: 58ms, application-code: 258ms)
+ GET /panel/experiencias 200 in 159ms (next.js: 36ms, application-code: 123ms)
+ GET /panel/aulas 200 in 118ms (next.js: 36ms, application-code: 81ms)
+ GET /panel/aulas/8 200 in 832ms (next.js: 731ms, application-code: 102ms)
+ GET /panel/aulas/8/areas/10 200 in 313ms (next.js: 17ms, application-code: 296ms)
+ POST /api/v1/sesiones 201 in 67s (next.js: 316ms, application-code: 67s)
+ GET /experiencias/ef5f3838-aa1e-4606-882b-3441e1d602b1 200 in 1347ms (next.js: 1209ms, application-code: 138ms)
+ GET /panel 200 in 38.7s (next.js: 7ms, application-code: 38.7s)
